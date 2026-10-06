@@ -1,16 +1,17 @@
-## Hi there 👋
+# [Project Title]: IBADAH tracker
 
-<!--
-**moranxlore/moranxlore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[One sentence: what problem does this project solve, and for whom?]
 
-Here are some ideas to get you started:
+## Problem statement
+TO MANY MAKSIAT THAT'S WHY I DEVELOP IBADAH TRACKER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Documents
+- [Problem statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User stories](docs/user-stories.md)
+
+## Status
+Planning (CSC649, Week 2)
+
+## Author
+moranxlore
